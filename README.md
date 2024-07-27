@@ -74,30 +74,55 @@ The overall time complexity for each generation is O(P * N * D + P log P). For G
 ## Execution Results:
 
 In Generation 1, The Best Completion Time is 137
+
 In Generation 2, The Best Completion Time is 131
+
 In Generation 3, The Best Completion Time is 131
+
 In Generation 4, The Best Completion Time is 131
+
 In Generation 5, The Best Completion Time is 131
+
 In Generation 6, The Best Completion Time is 126
+
 In Generation 7, The Best Completion Time is 122
+
 In Generation 8, The Best Completion Time is 122
+
 In Generation 9, The Best Completion Time is 119
+
 In Generation 10, The Best Completion Time is 118
+
 In Generation 11, The Best Completion Time is 118
+
 In Generation 12, The Best Completion Time is 118
+
 In Generation 13, The Best Completion Time is 118
+
 In Generation 14, The Best Completion Time is 118
+
 In Generation 15, The Best Completion Time is 118
+
 Final Best Completion Time is 118
+
 Best Schedule That We Have Found:
+
 Machine 1: Job0 Job1 Job3 
+
 Machine 2: Job2 Job4 Job5 Job6 Job7 Job8 Job9 Job10 Job11 Job12 Job13 Job14 Job15 Job16 Job17 Job18 Job19 
+
 Machine 3: 
+
 [Finished in 22.6s]
 
+
 We had 20 jobs with dependencies and this was my parameters:
+
  K = 3 = number of machines
+ 
  Population Size = 80000
+ 
  Generations = 15 = number of generations
+ 
 
 
